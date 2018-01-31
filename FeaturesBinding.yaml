@@ -8,3 +8,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "5160af8a-b336-4e4a-a0b5-b42872e31236"
+  name: ""
+  featureType:
+    id: "Data Access"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null

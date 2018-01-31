@@ -2,7 +2,8 @@
 project:
   name: "Test22"
   version: "0.1"
-  featureId: null
+  featureId:
+  - "1ef227bf-ce8d-46f4-9dda-40c4881ffbed"
   status:
     title: "Draft"
     details: null
